@@ -26,7 +26,7 @@ Hungry? Give it your zip code (or allow it to geo-locate you), and you'll get a 
 ---
 
 ## Demo
-BunkerDown can be found at: bunkerdown.herokuapp.com
+BunkerDown can be found at: https://bunkerdown.herokuapp.com
 
 ---
 
