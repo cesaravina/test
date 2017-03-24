@@ -1,5 +1,5 @@
 # BunkerDown
-============
+---
 Welcome home. 
 
 This is BunkderDown. An app that curates the perfect night in. Simply select your desired streaming service, decide on movie or tv show, and it'll give you an awesome movie or show to watch. 
@@ -17,11 +17,11 @@ Hungry? Give it your zip code (or allow it to geo-locate you), and you'll get a 
 ---
 
 ## Features
--Curates the perfect evening in by combining streaming entertainment and food
--Uses Guidebox and The MovieDB APIs to find a random movie/tv show (https://www.guidebox.com/ | https://www.themoviedb.org/)
--Uses Yelp's API and GeoLocation to generate a random, local restaurant based on the chosen cuisines
--Form can also use zip code if GeoLocation is not supported
--More suggestions available for both food and movie/tv show
+- Curates the perfect evening in by combining streaming entertainment and food
+- Uses Guidebox and The MovieDB APIs to find a random movie/tv show (https://www.guidebox.com/ | https://www.themoviedb.org/)
+- Uses Yelp's API and GeoLocation to generate a random, local restaurant based on the chosen cuisines
+- Form can also use zip code if GeoLocation is not supported
+- More suggestions available for both food and movie/tv show
 
 ---
 
